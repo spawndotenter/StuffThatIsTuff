@@ -25,6 +25,8 @@ iframe.on{display:block}
 #gear:hover,#reload:hover,#toggle.on,#gear.on{opacity:1}
 #panel{position:absolute;top:40px;left:40px;z-index:11;background:#111;border:1px solid #444;border-radius:8px;padding:10px 12px;color:#ddd;font-size:13px;display:none;flex-direction:column;gap:8px;box-shadow:0 6px 20px rgba(0,0,0,.6)}
 #panel.open{display:flex}
+#repo{color:#6cb0ff;text-decoration:none;border-top:1px solid #333;padding-top:8px}
+#repo:hover{text-decoration:underline}
 #panel label{display:flex;align-items:center;gap:8px;cursor:pointer;white-space:nowrap}
 #toggle:hover{opacity:1}
 #pct{position:absolute;top:6px;right:10px;z-index:10;display:none;padding:6px 14px;border-radius:8px;border:0;background:#c0392b;color:#fff;font-weight:bold;font-size:14px;cursor:pointer;opacity:.85}
@@ -55,6 +57,7 @@ iframe.on{display:block}
 <div id="panel">
 <label><input type="checkbox" id="optUnload"> Unload other games when switching</label>
 <label><input type="checkbox" id="optReload"> Show reload button</label>
+<a id="repo" href="https://github.com/spawndotenter/StuffThatIsTuff" target="_blank" rel="noopener noreferrer">GitHub Repo &#8599;</a>
 </div>
 <iframe id="f0" data-attr="srcdoc" data-val="&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;

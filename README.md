@@ -1,2 +1,2 @@
 # StuffThatIsTuff
-slop
+slop for school

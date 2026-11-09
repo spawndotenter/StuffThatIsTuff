@@ -30,3 +30,9 @@ https://truffled.cv/iframe.html?g=AGJEBBI5BEWoRDKRRCAABAdIgSfoQCaYwW
 
 last breath
 https://github.com/caijiQAQ/LAST-BREATH/tree/main
+
+Roblox (webblox)
+https://truffled.cv/iframe.html?g=AGJEBBI5BEWoRDKRRCKcBERMhSfMwCUUxW
+
+Battle Cats
+https://truffled.cv/iframe.html?g=KsQAaoFHAgACPoVEWAhSfMwCUUxW

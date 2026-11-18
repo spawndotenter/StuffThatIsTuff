@@ -4,9 +4,6 @@ credits:
 tboi port
 https://github.com/chiikabu/the-browsing-of-isaac
 
-old tboi port
-https://truffled.cv/iframe.html?g=owCBohWIQgAUMQAXYRCEAwDJcRXRgADKMwCUUxW
-
 pacman
 https://gist.github.com/onnayokheng/fd2ca1a74d9d427ff7461745afccac88#file-index-html
 
@@ -21,9 +18,6 @@ https://wasm.rip/files/amongus/index.html
 
 cuphead
 https://wasm.rip/
-
-fnf
-https://www.newgrounds.com/portal/view/770371
 
 firefox
 https://truffled.cv/iframe.html?g=AGJEBBI5BEWoRDKRRCAABAdIgSfoQCaYwW
